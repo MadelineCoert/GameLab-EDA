@@ -51,7 +51,7 @@ GameLab-EDA/
 
 ## 📄 Final Report
 
-📎 [Click here to view the full GameLab Engagement Analysis (PDF)](report/GameLab_EDA_Report.pdf)
+[📄 Click here to view the full GameLab Engagement Analysis (PDF)](https://raw.githubusercontent.com/MadelineCoert/GameLab-EDA/main/report/GameLab_EDA_Report.pdf)
 
 ---
 
