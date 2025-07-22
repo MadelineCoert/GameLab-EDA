@@ -57,7 +57,7 @@ GameLab-EDA/
 
 ## Reflections
 
-This project helped me develop confidence in using R for real-world analytics tasks. I improved my ability to clean time-based data, build visual narratives, and communicate insights clearly. If expanded, this project could lead to predictive modeling for churn using logistic regression or decision trees.
+This project helped me build confidence in applying R to real-world analytics tasks. I strengthened my ability to clean and transform time-based data, craft visual narratives, and communicate insights effectively. With further development, this project could be extended into predictive churn modeling using logistic regression or time series analysis.
 
 ---
 
