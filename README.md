@@ -65,6 +65,7 @@ This project helped me build confidence in applying R to real-world analytics ta
 
 **Madeline Coert**  
 Graduate Certificate in Business Analytics – University of Queensland 
+
 📍 Brisbane, Australia  
 📧 madelinecoert@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/madeline-coert-546667309)  
