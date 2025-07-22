@@ -6,7 +6,7 @@ The goal was to apply exploratory data analysis (EDA) to identify usage patterns
 
 ---
 
-## 📈 Project Overview
+## Project Overview
 
 - **Client:** GameLab (fictional mobile game)
 - **Role:** Data Analyst
@@ -16,7 +16,7 @@ The goal was to apply exploratory data analysis (EDA) to identify usage patterns
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - 🔁 **Daily login frequency** was strongly associated with long-term retention.
 - ⏳ **Session length** and time of day played a role in predicting churn.
@@ -26,7 +26,7 @@ The goal was to apply exploratory data analysis (EDA) to identify usage patterns
 
 ---
 
-## 📊 Techniques Applied
+## Techniques Applied
 
 - Data cleaning and time-series transformation (e.g., login timestamps to session metrics)
 - Exploratory data analysis (distributions, boxplots, grouped summaries)
@@ -36,7 +36,7 @@ The goal was to apply exploratory data analysis (EDA) to identify usage patterns
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 GameLab-EDA/
 ├── README.md # Project overview
@@ -49,13 +49,13 @@ GameLab-EDA/
 
 ---
 
-## 📄 Final Report
+## Final Report
 
-[📄 Click here to view the full GameLab Engagement Analysis (PDF)](https://raw.githubusercontent.com/MadelineCoert/GameLab-EDA/main/report/GameLab_EDA_Report.pdf)
+[View the full PDF report here](./Report/GameLab_EDA_Report.pdf)
 
 ---
 
-## ✍️ Reflections
+## Reflections
 
 This project helped me develop confidence in using R for real-world analytics tasks. I improved my ability to clean time-based data, build visual narratives, and communicate insights clearly. If expanded, this project could lead to predictive modeling for churn using logistic regression or decision trees.
 
