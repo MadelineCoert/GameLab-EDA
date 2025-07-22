@@ -18,11 +18,11 @@ The goal was to apply exploratory data analysis (EDA) to identify usage patterns
 
 ## Key Findings
 
-- 🔁 **Daily login frequency** was strongly associated with long-term retention.
-- ⏳ **Session length** and time of day played a role in predicting churn.
-- 📆 **Retention dropped significantly** after Day 5 — a key re-engagement window.
-- 🧍 Players fell into three clear segments: high-frequency, casual, and churned users.
-- 💸 Most in-game purchases occurred within the first 72 hours.
+- **Daily login frequency** was strongly associated with long-term retention.
+- **Session length** and time of day played a role in predicting churn.
+- **Retention dropped significantly** after Day 5 — a key re-engagement window.
+- Players fell into three clear segments: high-frequency, casual, and churned users.
+- Most in-game purchases occurred within the first 72 hours.
 
 ---
 
