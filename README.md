@@ -51,7 +51,7 @@ GameLab-EDA/
 
 ## Final Report
 
-[View the full PDF report here](./Report/GameLab_EDA_Report.pdf)
+[View the full PDF report here](./GameLab_EDA_Report.pdf)
 
 ---
 
