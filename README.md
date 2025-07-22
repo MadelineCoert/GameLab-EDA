@@ -1,4 +1,4 @@
-# 🎮 GameLab Engagement Analysis
+# GameLab Engagement Analysis
 
 This project explores user behavior data from a fictional mobile game, **GameLab**, to uncover factors affecting player retention and engagement. The analysis was completed using R as part of the University of Queensland course **BSAN7204: Data Analytics**.
 
