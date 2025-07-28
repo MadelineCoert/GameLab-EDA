@@ -69,4 +69,3 @@ Graduate Certificate in Business Analytics – University of Queensland
 📍 Brisbane, Australia  
 📧 madelinecoert@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/madeline-coert-546667309)  
-🗂 [Portfolio](https://www.notion.so/Madeline-Coert-Data-Portfolio-230422558f0280ef88b9f306140f1a)
