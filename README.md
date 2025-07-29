@@ -2,7 +2,7 @@
 ---
 
 ## Final Report
-**[🔗 View the full PDF report here](Restaurant_Risk_Analysis_Report.pdf)**  
+**[🔗 View the full PDF report here](GameLab_EDA_Report1.pdf)**  
 *A concise summary of findings, visuals, and recommendations.*
 
 This project analyses user behavior data from a video game company to identify key factors influencing player retention and engagement, using R for data cleaning, visualisation and statistical analysis. The goal was to conduct exploratory data analysis to identify usage patterns, segment player types and generate actionable insights to inform product development and marketing strategies.
