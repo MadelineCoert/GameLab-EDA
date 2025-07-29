@@ -1,38 +1,42 @@
 # GameLab Engagement Analysis
 
-This project explores user behavior data from a fictional mobile game, **GameLab**, to uncover factors affecting player retention and engagement. The analysis was completed using R as part of the University of Queensland course **BSAN7204: Data Analytics**.
+This project analyzes user behavior data from a video game company to identify key factors influencing player retention and engagement, using R for data cleaning, visualization, and statistical analysis.
 
-The goal was to apply exploratory data analysis (EDA) to identify usage patterns, segment player types, and uncover actionable insights for product and marketing teams.
+The goal was to conduct exploratory data analysis to identify usage patterns, segment player types and generate actionable insights to inform product development and marketing strategies
 
 ---
 
 ## Project Overview
 
-- **Client:** GameLab (fictional mobile game)
+- **Client:** GameLab 
 - **Role:** Data Analyst
 - **Tools Used:** R, tidyverse, ggplot2, lubridate, dplyr, R Markdown
 - **Dataset:** Simulated player activity logs from over 5,000 users
-- **Deliverable:** Full EDA report + insights presentation
+- **Deliverable:** Full EDA report + insights presentation + product recommendations
 
 ---
 
-## Key Findings
+## Key Insights
+- **Engagement patterns differ by game type:** Game A attracts highly engaged players with higher total playtime, while Game B maintains steady, consistent engagement.
+- **Revenue drivers vary:** Game A’s revenue is concentrated among a few high-spending players, whereas Game B generates more predictable, evenly distributed spending.
+- **Session length matters:** Longer session durations in Game B may contribute to stronger retention, while Game A relies on a small group of deeply engaged users.
+- **Statistical validation:** A/B testing confirmed significant differences in both playtime and purchases between game types, eliminating the likelihood of random variation.
 
-- **Daily login frequency** was strongly associated with long-term retention.
-- **Session length** and time of day played a role in predicting churn.
-- **Retention dropped significantly** after Day 5 — a key re-engagement window.
-- Players fell into three clear segments: high-frequency, casual, and churned users.
-- Most in-game purchases occurred within the first 72 hours.
+## Recommendations
+- **Focus on monetization for Game B:** Enhance upgrade options to capitalize on its stable spending base.
+- **Target high-value players in Game A:** Develop personalized engagement strategies for the subset of heavy users who drive most of the revenue.
+- **Leverage retention strategies:** Explore features or incentives that extend player engagement beyond initial sessions.
+- **Conduct further experiments:** Test segmentation-based strategies and analyse behavior with real currency to refine revenue forecasts.
 
 ---
 
 ## Techniques Applied
 
-- Data cleaning and time-series transformation (e.g., login timestamps to session metrics)
-- Exploratory data analysis (distributions, boxplots, grouped summaries)
-- Player segmentation based on behavioral features
-- Visualizations using `ggplot2` to present trends and distributions
-- Interpretation of insights for marketing and UX strategy
+- Data cleaning and variable formatting to prepare for analysis
+- Exploratory data analysis using distributions, summary statistics and comparative plots
+- Comparative analysis by player experience and game type to guide decision-making
+- Visualisations created using `ggplot2` to explore trends in playtime and purchases
+- Interpretation of findings to support marketing, player engagement and monetisation strategies
 
 ---
 
@@ -57,7 +61,7 @@ GameLab-EDA/
 
 ## Reflections
 
-This project helped me build confidence in applying R to real-world analytics tasks. I strengthened my ability to clean and transform time-based data, craft visual narratives, and communicate insights effectively. With further development, this project could be extended into predictive churn modeling using logistic regression or time series analysis.
+This project helped me build confidence in applying R to real-world analytics tasks. I strengthened my ability to clean and transform time-based data, craft visual narratives and communicate insights effectively. With further development, this project could be extended into predictive churn modeling using logistic regression or time series analysis.
 
 ---
 
