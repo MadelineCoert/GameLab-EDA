@@ -1,6 +1,6 @@
 # GameLab Engagement Analysis
 
-This project analyzes user behavior data from a video game company to identify key factors influencing player retention and engagement, using R for data cleaning, visualization, and statistical analysis.
+This project analyses user behavior data from a video game company to identify key factors influencing player retention and engagement, using R for data cleaning, visualisation and statistical analysis.
 
 The goal was to conduct exploratory data analysis to identify usage patterns, segment player types and generate actionable insights to inform product development and marketing strategies
 
