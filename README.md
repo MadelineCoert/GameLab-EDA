@@ -6,6 +6,12 @@ The goal was to conduct exploratory data analysis to identify usage patterns, se
 
 ---
 
+## Final Report
+
+[View the full PDF report here](./GameLab_EDA_Report1.pdf)
+
+---
+
 ## Project Overview
 
 - **Client:** GameLab 
@@ -50,12 +56,6 @@ GameLab-EDA/
 ├── gamelab.csv # Sample dataset (fictional)
 ├── figures/ # Exported plots from ggplot2
 └── scripts/ # (Optional) Any modular R scripts
-
----
-
-## Final Report
-
-[View the full PDF report here](./GameLab_EDA_Report.pdf)
 
 ---
 
