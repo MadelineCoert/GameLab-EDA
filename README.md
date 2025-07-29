@@ -23,8 +23,8 @@ The goal was to conduct exploratory data analysis to identify usage patterns, se
 - **Statistical validation:** A/B testing confirmed significant differences in both playtime and purchases between game types, eliminating the likelihood of random variation.
 
 ## Recommendations
-- **Focus on monetization for Game B:** Enhance upgrade options to capitalize on its stable spending base.
-- **Target high-value players in Game A:** Develop personalized engagement strategies for the subset of heavy users who drive most of the revenue.
+- **Focus on monetisation for Game B:** Enhance upgrade options to capitalize on its stable spending base.
+- **Target high-value players in Game A:** Develop personalised engagement strategies for the subset of heavy users who drive most of the revenue.
 - **Leverage retention strategies:** Explore features or incentives that extend player engagement beyond initial sessions.
 - **Conduct further experiments:** Test segmentation-based strategies and analyse behavior with real currency to refine revenue forecasts.
 
